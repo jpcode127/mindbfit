@@ -101,8 +101,9 @@ transform: scale(1,1);
 @media screen and (min-width: 800px)  {
   .nav-toggle-label {
     display: none;
+    .slp-logo
   }
-
+}
 
 header {
   display: grid;
