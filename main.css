@@ -4,7 +4,7 @@
 .slp-logo {
   max-width:100%;
   height:auto;
-  margin: auto;
+  margin: 2em, 3em;
   grid-column: 2 / 3;
 }
 header {
@@ -98,7 +98,7 @@ transform: scale(1,1);
   transition: opacity 250ms ease-in-out 250ms;
 }
 
-@media screen and (min-width: 600px)  {
+@media screen and (min-width: 800px)  {
   .nav-toggle-label {
     display: none;
   }
