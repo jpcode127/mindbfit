@@ -5,8 +5,9 @@
   max-width:100%;
   height:auto;
   margin: 1em, 1em, 1em, 1em;
+  grid-column: 2 / 3;
+  margin: 3em;
 }
-
 header {
   background: var(--background);
   text-align: center;
@@ -109,10 +110,7 @@ header {
   grid-template-columns: 1fr auto minmax(600px, 3fr) 1fr;
 }
 
-.slp-logo {
-  grid-column: 2 / 3;
-  margin: 3em;
-}
+
 
 nav {
   all:unset;
