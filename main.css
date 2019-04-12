@@ -4,8 +4,8 @@
 .slp-logo {
   max-width:100%;
   height:auto;
-margin:0px 10px 0px 0px;
-  grid-column: 2 / 4;
+margin:0px 30% 0px -10%;
+  grid-column: 2 / 3;
   border:1px solid red;
 }
 header {
