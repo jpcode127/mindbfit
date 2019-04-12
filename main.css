@@ -103,7 +103,9 @@ transform: scale(1,1);
   .nav-toggle-label {
     display: none;
   }
-  .slp-logo {
+}
+  @media screen and (max-width: 600px)  {
+    .slp-logo {
     display: none;
   }
 }
