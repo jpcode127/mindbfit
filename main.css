@@ -99,7 +99,7 @@ transform: scale(1,1);
   transition: opacity 250ms ease-in-out 250ms;
 }
 
-@media screen and (min-width: 600px)  {
+@media screen and (max-width: 600px)  {
   .nav-toggle-label {
     display: none;
   }
